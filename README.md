@@ -1,7 +1,13 @@
 # intern_challenge
-A Tic Tac Toe coding challenge for our internship applicants
+A Tic Tac Toe coding challenge for the Gust intership
 
-In one of the following languages, please implement a tic-tac-toe game for two users.
+Implemented in Python
+
+
+## instructions for running
+- Requires Python2
+- No dependencies not included within the standard Python2 installation
+- clone this repository, `cd` into it, and run the program with `python2 main.py`
 
 ## requirements:
 - do not include your name or identifying information anywhere in your code
@@ -14,7 +20,7 @@ In one of the following languages, please implement a tic-tac-toe game for two u
 ## allowed languages:
 - ruby
 - javascript (with or without a framework, in the browser w/ html & css or node)
-- python
+- __python__
 - elm
 - haskell
 - C
@@ -23,10 +29,10 @@ In one of the following languages, please implement a tic-tac-toe game for two u
 - some combination thereof
 
 ## potential additions: (note, these are not requirements!)
-- cool styles, animations, interactions
-- add an automated test for some part of your implementation
-- a single player mode where you can play against an ai that just places its symbol randomly
-- a single player mode where you can play against an ai that places its symbol intelligently
+- [ ]cool styles, animations, interactions
+- [ ]add an automated test for some part of your implementation
+- [x]a single player mode where you can play against an ai that just places its symbol randomly
+- [ ]a single player mode where you can play against an ai that places its symbol intelligently
 
 ## to submit (3 options):
 - write your solution in a fork of this repo, push to github, and send an email to devs@gust.com with a link to the fork
