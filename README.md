@@ -29,10 +29,10 @@ Implemented in Python
 - some combination thereof
 
 ## potential additions: (note, these are not requirements!)
-- [ ]cool styles, animations, interactions
-- [ ]add an automated test for some part of your implementation
-- [x]a single player mode where you can play against an ai that just places its symbol randomly
-- [ ]a single player mode where you can play against an ai that places its symbol intelligently
+- [ ] cool styles, animations, interactions
+- [ ] add an automated test for some part of your implementation
+- [x] a single player mode where you can play against an ai that just places its symbol randomly
+- [ ] a single player mode where you can play against an ai that places its symbol intelligently
 
 ## to submit (3 options):
 - write your solution in a fork of this repo, push to github, and send an email to devs@gust.com with a link to the fork
